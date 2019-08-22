@@ -1,0 +1,6 @@
+{
+    "consoleClear" : "Alt+Up",
+    "insertPipeOperator" : "Alt+Right",
+    "reindent" : "Alt+Left",
+    "restartR" : "Shift+Alt+Up"
+}
