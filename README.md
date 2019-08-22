@@ -13,6 +13,8 @@ For some examples, check out:
  
  https://csgillespie.github.io/efficientR/3-3-r-startup.html#r-startup
  
+ https://www.r-bloggers.com/customize-your-rprofile-and-keep-your-workspace-clean/
+ 
   
 
 # Overview R CRAN
